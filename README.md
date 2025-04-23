@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/tiubenedict" target="blank"><img src="https://img.shields.io/twitter/follow/tiubenedict?logo=twitter&style=for-the-badge" alt="tiubenedict" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter-based indicators for Macroeconomic Nowcasting**
+- 🔭 I’m currently working on **Twitter-based indicators for Macroeconomic Nowcasting using Multi-Task Mixed-Frequency LSTM-based Encoder-Decoder models**
 
-- 🌱 I’m currently learning **AWS DevOps/MLOps**
+- 🌱 I’m currently learning **Computer Vision, HuggingFace Agents, AWS DevOps, and MLOps**
 
 - 📫 How to reach me **mail@tiubenedict.com**
+
+- 🪪 Certification: Microsoft Fabric DP-600 <a href="https://learn.microsoft.com/en-us/users/BenedictTiu-8924/credentials/5135FFC677C4A2E2">Analytics Engineer Associate</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
